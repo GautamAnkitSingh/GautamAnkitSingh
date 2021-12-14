@@ -1,4 +1,4 @@
- # Hi, 👋 I’m GautamAnkitSingh
+ # Hi, 👋 I’m Gautam Ankit Singh
 ### I am a practical and detail-oriented Full Stack Developer with a keen interest in solving various problems
 ### with the help of data structures and algorithms and has motive to create user-friendly applications.Curious
 ### to learn new skills and technology which can enhance growth in my learning.
